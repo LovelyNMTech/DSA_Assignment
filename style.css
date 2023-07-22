@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:  #54c3ef;
+    margin: 0;
+    padding: 0
+}
+
+body .main{
+    background-color: #2b3252;
+    border-radius: 8px;
+}
+
+h1{
+    color: #fad744;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: #fad744;
+    display: flex;
+    justify-content: center;
+}
+
+pre{
+    display: flex;
+    justify-content: center;
+}
